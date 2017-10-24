@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularStartSeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
@@ -26,3 +27,6 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-start-seed
+>>>>>>> d66b035e0e44bb03e206e74ba30c6d55bb64ede0
